@@ -7,5 +7,5 @@ func init() {
 }
 
 func B() {
-	fmt.Println("in b")
+	fmt.Println("in b in v1.0.7")
 }
