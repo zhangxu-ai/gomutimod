@@ -3,5 +3,5 @@ package a1
 import "fmt"
 
 func A() {
-	fmt.Println("hello a in v1.0.8")
+	fmt.Println("hello a in v1.0.9")
 }
