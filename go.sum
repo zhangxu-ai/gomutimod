@@ -2,7 +2,11 @@ github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210611132153-44aa95672fdc h1:kXO
 github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210611132153-44aa95672fdc/go.mod h1:zVcelJbo67DzUufxwmVbktZOXb6C/rEjOkpcOfCKAVw=
 github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210611132826-568ac0bb5080 h1:ye+DU28sXUWqvnZ7U8JDPjeNh0lhAwzIbnZyfAu0GgU=
 github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210611132826-568ac0bb5080/go.mod h1:zVcelJbo67DzUufxwmVbktZOXb6C/rEjOkpcOfCKAVw=
+github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210612034649-bbf007efe3ab h1:U6/DD2XwQD5UBkO7I5u2v9KNZxGPsR+QhrgWu6PCjqI=
+github.com/zhangxu-ai/gomutimod/mods/a v0.0.0-20210612034649-bbf007efe3ab/go.mod h1:zVcelJbo67DzUufxwmVbktZOXb6C/rEjOkpcOfCKAVw=
 github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210611132153-44aa95672fdc h1:DlppvpZQ022V2jW560XXh0de3W672wdVuusfGtU8cwA=
 github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210611132153-44aa95672fdc/go.mod h1:2wEATkpr0AC3/3vIhF3fG6nK7efb2idhGYixX6SFsZY=
 github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210611132826-568ac0bb5080 h1:t4je71siODzPIdwdEDSFlBMiKIkmUjULU1XfiQyo10A=
 github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210611132826-568ac0bb5080/go.mod h1:2wEATkpr0AC3/3vIhF3fG6nK7efb2idhGYixX6SFsZY=
+github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210612034649-bbf007efe3ab h1:oGwQqlMcnMnyYvm3JmhncVDc2NHDYzrUpj2QnFzjulo=
+github.com/zhangxu-ai/gomutimod/mods/b v0.0.0-20210612034649-bbf007efe3ab/go.mod h1:2wEATkpr0AC3/3vIhF3fG6nK7efb2idhGYixX6SFsZY=
